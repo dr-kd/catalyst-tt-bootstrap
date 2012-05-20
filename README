@@ -1,0 +1,10 @@
+Example Catalyst (http://catalystframework.org) app that uses Template
+Toolkit and Twitter Bootstrap for HTML display.  The MyBoot::View::Web
+config, and the Page.tt (wrapper) are probably the only really useful bits
+of this app.
+
+To use the latest twitter bootstrap, grab the latest release from
+http://twitter.github.com/bootstrap/assets/bootstrap.zip, put in your app's
+'root/static' directory and unzip.
+
+Run script/myboot_server.pl to test the application.
